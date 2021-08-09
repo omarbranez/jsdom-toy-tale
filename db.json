@@ -4,31 +4,31 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 33
+      "likes": 54
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "likes": 19
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 4
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 5
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 6,
@@ -47,6 +47,84 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "The Child",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.target.com%2Fp%2Fstar-wars-the-child-11-34-plush%2F-%2FA-79318437&psig=AOvVaw3RJHOnLmVceI_mm2df8Rrs&ust=1628613251525000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCkyKSvpPICFQAAAAAdAAAAABAE",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "GROGU",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_a767b73e-dfeb-494b-b94c-bf3497cee719?wid=488&hei=488&fmt=pjpeg",
+      "likes": 1,
+      "id": 10
+    },
+    {
+      "name": "test",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/03/Among-Us-Random-Name-Generator.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "lol",
+      "image": "https://thechive.com/wp-content/uploads/2019/12/person-hilariously-photoshops-animals-onto-random-things-xx-photos-25.jpg?attachment_cache_bust=3136487&quality=85&strip=info&w=400",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "lol",
+      "image": "https://thechive.com/wp-content/uploads/2019/12/person-hilariously-photoshops-animals-onto-random-things-xx-photos-25.jpg?attachment_cache_bust=3136487&quality=85&strip=info&w=400",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "lol",
+      "image": "https://thechive.com/wp-content/uploads/2019/12/person-hilariously-photoshops-animals-onto-random-things-xx-photos-25.jpg?attachment_cache_bust=3136487&quality=85&strip=info&w=400",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "ol",
+      "image": "https://thechive.com/wp-content/uploads/2019/12/person-hilariously-photoshops-animals-onto-random-things-xx-photos-25.jpg?attachment_cache_bust=3136487&quality=85&strip=info&w=400",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "no",
+      "image": "https://cdn.pixabay.com/photo/2017/01/08/13/58/cube-1963036__340.jpg",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "no",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBeFJlIO2WLQMywdfKaZRKdVHglU4-9sljRA&usqp=CAU",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "no",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBeFJlIO2WLQMywdfKaZRKdVHglU4-9sljRA&usqp=CAU",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "name": "dawd",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBeFJlIO2WLQMywdfKaZRKdVHglU4-9sljRA&usqp=CAU",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "name": "dawd",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBeFJlIO2WLQMywdfKaZRKdVHglU4-9sljRA&usqp=CAU",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "name": "awdwwd",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBeFJlIO2WLQMywdfKaZRKdVHglU4-9sljRA&usqp=CAU",
+      "likes": 0,
+      "id": 21
     }
   ]
 }
